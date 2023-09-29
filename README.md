@@ -1,4 +1,4 @@
-# 4 MOSFET Driver Project
+# 4 N-channel MOSFET Driver Project
 
 ![mosfet driver top board](mosdet_driver.png)
 
